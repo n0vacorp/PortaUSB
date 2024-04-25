@@ -6,3 +6,4 @@ A portable games site that loads from a USB.
 2) Upload the extracted files to the root of a usb, preferrable over 8gb.
 3) Open index.html (root)
 4) Enjoy!
+(note: made in like 1 minute, verly low quality)
